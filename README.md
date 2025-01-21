@@ -1,4 +1,4 @@
-This current code EEG_CNN finds the patterns in the EEG data and tries to predict the possibilities of having neurodegenerative disease in this case Alzheimer's or
+This current code EEG_CNN & EEG_BRFC finds the patterns in the EEG data and tries to predict the possibilities of having neurodegenerative disease in this case Alzheimer's or
 Fronto Temporal Dementia (FTD) and Healthy case with the help of CNN and Balanced Random Forest Classifier which had theirs pros and cons wrt to computational cost 
 and performance metrics. Both of the models are used for current, but can decided based on the requirements.
 
